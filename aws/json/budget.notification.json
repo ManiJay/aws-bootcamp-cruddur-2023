@@ -1,0 +1,16 @@
+[
+    {
+        "Notification": {
+            "ComparisonOperator": "GREATER_THAN",
+            "NotificationType": "ACTUAL",
+            "Threshold": 80,
+            "ThresholdType": "PERCENTAGE"
+        },
+        "Subscribers": [
+            {
+                "Address": "olaola41686@gmail.com",
+                "SubscriptionType": "EMAIL"
+            }
+        ]
+    }
+]
